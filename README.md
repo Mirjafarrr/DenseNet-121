@@ -93,7 +93,7 @@ DenseNet-121/
 ├── predict.py          # Inference script for real-world testing
 ├── requirements.txt    # Project dependencies
 └── README.md           # Project documentation
-
+```
 ---
 
 ## ⚙️ Installation
@@ -132,6 +132,7 @@ The training loop will:
 3. Save the best-performing model checkpoint to `models/best_densenet.pth` based on validation loss.
 4. Plot training and validation loss/accuracy curves via `plot_training_results`.
 
+---
 
 ### Inference
 
