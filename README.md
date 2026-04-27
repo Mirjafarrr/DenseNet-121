@@ -19,7 +19,7 @@ A modular, from-scratch implementation of the **DenseNet-121** architecture in P
 - [Dataset](#-dataset)
 - [Model Architecture](#-model-architecture)
 - [Project Structure](#-project-structure)
-- [Installation](#-installation)
+- [Installation](#installation)
 - [Usage](#-usage)
   - [Training](#training)
   - [Inference](#inference)
@@ -96,7 +96,7 @@ DenseNet-121/
 ```
 ---
 
-### ⚙️ Installation
+## ⚙️ Installation
 
 **Prerequisites:** Python 3.8+, pip, and a CUDA-capable GPU (optional but recommended).
 
