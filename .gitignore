@@ -1,0 +1,21 @@
+# Local Virtual Environment
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data and Models (Large Files)
+data/
+models/*.pth
+
+# IDE specific files
+.vscode/
+.idea/
+.DS_Store
+
+# Logs and outputs
+*.log
