@@ -15,25 +15,25 @@ A modular, from-scratch implementation of the **DenseNet-121** architecture in P
 
 ## 📑 Table of Contents
 
-- [Overview](#-overview)
-- [Dataset](#-dataset)
-- [Model Architecture](#-model-architecture)
-- [Project Structure](#-project-structure)
+- [Overview](#overview)
+- [Dataset](#dataset)
+- [Model Architecture](#model-architecture)
+- [Project Structure](#project-structure)
 - [Installation](#installation)
-- [Usage](#-usage)
+- [Usage](#usage)
   - [Training](#training)
   - [Inference](#inference)
-- [License](#-license)
+- [License](#license)
 
 ---
 
-## 🔍 Overview
+## <a id="overview"></a>🔍 Overview
 
 This project provides a clean, modular PyTorch implementation of **DenseNet-121** (Densely Connected Convolutional Networks) applied to the CIFAR-10 image classification task. The key design decisions are:
 
 ---
 
-## 📊 Dataset
+## <a id="dataset"></a>📊 Dataset
 
 The model is trained on the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html), which consists of **60,000** color images across **10 balanced classes**.
 
@@ -79,7 +79,7 @@ DenseNet (Densely Connected Convolutional Networks) introduces **dense connectiv
 
 ---
 
-## 📂 Project Structure
+## <a id="project-structure"></a>📂 Project Structure
 
 ```
 DenseNet-121/
@@ -116,7 +116,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Usage
+## <a id="usage"></a>🚀 Usage
 
 ### Training
 
@@ -167,7 +167,7 @@ The script will:
 ---
 
 
-## 📄 License
+## <a id="license"></a>📄 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
