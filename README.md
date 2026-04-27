@@ -50,7 +50,7 @@ The model is trained on the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/
 
 ---
 
-## 🏗️ Model Architecture
+## <a id="model-architecture"></a>🏗️ Model Architecture
 
 DenseNet (Densely Connected Convolutional Networks) introduces **dense connectivity**: every layer receives feature maps from *all* preceding layers and passes its own feature maps to *all* subsequent layers within the same dense block. This design has three major benefits:
 
