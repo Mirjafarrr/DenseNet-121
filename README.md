@@ -132,7 +132,6 @@ The training loop will:
 3. Save the best-performing model checkpoint to `models/best_densenet.pth` based on validation loss.
 4. Plot training and validation loss/accuracy curves via `plot_training_results`.
 
----
 
 ### Inference
 
