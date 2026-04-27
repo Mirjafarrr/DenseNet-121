@@ -96,7 +96,7 @@ DenseNet-121/
 ```
 ---
 
-## ⚙️ Installation
+## <a id="installation"></a>⚙️ Installation
 
 **Prerequisites:** Python 3.8+, pip, and a CUDA-capable GPU (optional but recommended).
 
