@@ -1,7 +1,5 @@
 # DenseNet-121 Image Classification on CIFAR-10
 
-<div>![DenseNet-121 Architecture]('DenseNet-121 Diagram.png')</div>
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -59,6 +57,8 @@ DenseNet (Densely Connected Convolutional Networks) introduces **dense connectiv
 - **Alleviates the vanishing-gradient problem** by providing shorter gradient paths back to earlier layers.
 - **Strengthens feature propagation** by reusing learned representations throughout the network.
 - **Reduces parameter count** compared to equivalent ResNets, since feature reuse avoids redundant learning.
+
+![DenseNet-121 Architecture](DenseNet-121%20Diagram.png)
 
 ### DenseNet-121 Architecture Breakdown
 
